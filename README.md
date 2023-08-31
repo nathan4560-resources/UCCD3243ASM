@@ -9,7 +9,7 @@ Software used:
 <li>Adobe Dreamweaver 2021</li>
 <li>Visual Studio Code (latest version)*</li>
 <li>IntelliJ IDEA 2023.2 Ultimate (Java EE IDE)</li>
-<li>Wildfly 17.0.1 Final</li>
+<li>Wildfly 29.0.0 Final**</li>
 <li>PostgreSQL DBMS (ver 15)</li>
 <li>Visual Paradigm Community Edition</li>
   <li>JDK 11.0.4</li>
@@ -32,3 +32,4 @@ Software used:
 Some versions used in software differs due to time constraints.
 
 *:Extensions used for Visual Studio Code: ESTlint v6, Prettier
+**: Wildfly 29.0.0 Final is used instead of 17.0.1 as the IntelliJ IDEA is unable to identify the specific version of Wildfly properly. Sorry for the inconvenience.
