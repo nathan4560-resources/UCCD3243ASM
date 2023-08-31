@@ -8,7 +8,7 @@ Software used:
 <ul>
 <li>Adobe Dreamweaver 2021</li>
 <li>Visual Studio Code (latest version)*</li>
-<li>IntelliJ Idea 2023.1 Ultimate (Java EE IDE)</li>
+<li>IntelliJ IDEA 2023.2 Ultimate (Java EE IDE)</li>
 <li>Wildfly 17.0.1 Final</li>
 <li>PostgreSQL DBMS (ver 15)</li>
 <li>Visual Paradigm Community Edition</li>
