@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap");
+.choice{
+    display:flex;
+    padding: 10px;
+    border-radius: 15px;
+    margin: auto;
+    width: 35%;
+    margin-left: 500px;
+    color: aliceblue;
+    background-color: #4da0a3;
+
+}
+
+#major{
+    font-family: 'Ubuntu', sans-serif;
+    color: aliceblue;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
