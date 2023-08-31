@@ -32,4 +32,5 @@ Software used:
 Some versions used in software differs due to time constraints.
 
 *:Extensions used for Visual Studio Code: ESTlint v6, Prettier
+<br>
 **: Wildfly 29.0.0 Final is used instead of 17.0.1 as the IntelliJ IDEA is unable to identify the specific version of Wildfly properly. Sorry for the inconvenience.
