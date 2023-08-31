@@ -15,6 +15,20 @@ Software used:
   <li>JDK 11.0.4</li>
   </ul>
 </p>
+
+<h2>This web application assignment is also developed under the license of GPL v3</h2>
+<p>Long story short, here's the requirements for GPL v3</p>
+<ol>
+<li>Anyone can copy, modify and distribute this software.</li>
+<li>You have to include the license and copyright notice with each and every distribution.</li>
+<li>You can use this software privately.</li>
+<li>You can use this software for commercial purposes.</li>
+<li>If you dare build your business solely from this code, you risk open-sourcing the whole code base.</li>
+<li>If you modify it, you have to indicate changes made to the code.</li>
+<li>Any modifications of this code base MUST be distributed with the same license, GPLv3.</li>
+<li>This software is provided without warranty.</li>
+<li>The software author or license can not be held liable for any damages inflicted by the software.</li>
+  </ol>
 Some versions used in software differs due to time constraints.
 
 *:Extensions used for Visual Studio Code: ESTlint v6, Prettier
